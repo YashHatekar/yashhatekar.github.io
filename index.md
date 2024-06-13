@@ -11,15 +11,20 @@
 • Spearheaded and submitted a system for the NADI-2023 Shared task (subtask 1) in which we fine-tuned and optimized a HuggingFace-based Arabic BERT model.<br>
 • The IUNADI team implemented a customized pre-processing and ensemble method to improve model predictions for country-level dialect identification achieving an F1 score of 70.22 and ranking 13th internationally.
 
+[Read Here](https://aclanthology.org/2023.arabicnlp-1.72.pdf)
+
 ---
 ### IUEXIST: Identifying Sexism in Social Networks
 • Contributed and led the IUEXIST team to the EXIST 2023 task 1. Our team achieved top rank among IU teams and was in the top 20 overall. The shared task focused on identifying sexism in social networks.<br>
 • We used Deep Learning, Natural Language Processing, Data Preprocessing, and Ensemble Learning techniques. We achieved an ICM score of 71.15% for the overall model and ranked 9th globally.
+[Read Here](https://ceur-ws.org/Vol-3497/paper-081.pdf)
 
 ---
 ### Driver Insurance Claims Prediction
 • Utilized data mining techniques and statistical ML models to predict if a customer would file an auto insurance claim in a year.<br>
 • Multiple statistical models like Logistic Regression, SVC, Xgboost, Adaboost, and ensemble classifier using bagging to perform the prediction and achieved a max F1 score of 96.9 on the test data.
+
+[Code Here](https://github.com/YashHatekar/B565-Project)
 
 ---
 ### The Cost of Saving Lives Amid COVID-19
