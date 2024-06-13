@@ -17,6 +17,7 @@
 ### IUEXIST: Identifying Sexism in Social Networks
 • Contributed and led the IUEXIST team to the EXIST 2023 task 1. Our team achieved top rank among IU teams and was in the top 20 overall. The shared task focused on identifying sexism in social networks.<br>
 • We used Deep Learning, Natural Language Processing, Data Preprocessing, and Ensemble Learning techniques. We achieved an ICM score of 71.15% for the overall model and ranked 9th globally.
+
 [Read Here](https://ceur-ws.org/Vol-3497/paper-081.pdf)
 
 ---
