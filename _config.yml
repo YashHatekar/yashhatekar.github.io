@@ -1,5 +1,6 @@
 title: Yash Hatekar # your name (or website title) here
-logo: "/images/profilepic.jpeg?raw=true{: width="270px" height="290.59px"}" # your photo (or logo) here
+logo: "/images/profilepic.jpeg?raw=true"# your photo (or logo) here
+logo: !Profile Picture{: width="270px" height="290.59px"}
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Data Scientist with 2.5 years of commercial experience in NLP, analytics, and sales and a master's degree in Computer Science from Indiana University Bloomington. Previously at Deloitte.
   <br><br>
