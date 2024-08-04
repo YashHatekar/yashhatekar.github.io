@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="{{site.resume | relative url}}"> View My Resume </a>
   <br>
   <a href="https://www.linkedin.com/in/yashhatekar/">View My LinkedIn Profile</a>
-  <b>
+  <br>
   <a href="{{ site.github.owner_url }}">View My GitHub Profile</a>
 resume: "/pdf/Resume_NLP_MLE_Data_Science_Multi_Page.pdf"
 remote_theme: pages-themes/minimal@v0.2.0
