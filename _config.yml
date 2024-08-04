@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
  Data Scientist with 2.5 years of commercial experience in NLP, analytics, and sales and a master's degree in Computer Science from Indiana University Bloomington. Previously at Deloitte.
   <br><br>
   <a href="{{site.resume | relative url}}"> View My Resume </a>
-  <br>
+  <be><br>
   <a href="https://www.linkedin.com/in/yashhatekar/">View My LinkedIn Profile</a>
 resume: "/pdf/Resume_NLP_MLE_Data_Science_Multi_Page.pdf"
 remote_theme: pages-themes/minimal@v0.2.0
